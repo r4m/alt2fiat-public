@@ -1,4 +1,4 @@
-Alt Cryptocurrencies to Fiat (EUR/USD) Converter
+ALT cryptos to EUR/USD converter
 ==============
 
 Tired of doing your own calculations to see the EUR/USD countervalue of your ALT crypto-currencies? This app does that for you automatically!
